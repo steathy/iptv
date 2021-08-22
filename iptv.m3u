@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Kw0hsmb.png" tvg-country="CN" group-title="CCTV-HD",CCTV-1 HD
-https://itv.olevod.tv:5443/live/cctv1hd.m3u8
+https://itv.olevod.tv:5443/live/cctv1hdbupt.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/FNVB7K2.png" tvg-country="CN" group-title="CCTV-HD",CCTV-2 HD
 https://itv.olevod.tv:5443/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://pic.pngbag.com/00/11/53/3662a667b5e168bf.jpg" tvg-country="CN" group-title="CCTV-HD",CCTV-3 HD
@@ -9,11 +9,11 @@ https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 https://itv.olevod.tv:5443/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
 https://itv.olevod.tv:5443/live/cctv5hdfdk.m3u8
-#EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
+#EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD Alt
 https://itv.olevod.tv:5443/live/cctv5hdbuptfdk.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
 https://itv.olevod.tv:5443/live/cctv5phdgd.m3u8
-#EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+ Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
+#EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+ Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD Alt
 https://itv.olevod.tv:5443/live/cctv5phdbuptfdk.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tedLl4e.png" tvg-country="CN" group-title="CCTV-HD",CCTV-6 HD
 https://itv.olevod.tv:5443/live/cctv6hd.m3u8
@@ -26,11 +26,13 @@ https://itv.olevod.tv:5443/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="https://i.imgur.com/us2W6Zu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-10 HD
 https://itv.olevod.tv:5443/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Jhz0gqG.png" tvg-country="CN" group-title="CCTV-HD",CCTV-13 HD
-https://itv.olevod.tv:5443/live/cctv13hd.m3u8
+https://itv.olevod.tv:5443/live/cctv13hdbupt.m3u8
 #EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",江苏卫视 HD
 https://itv.olevod.tv:5443/live/jshd.m3u8
 #EXTINF:-1 tvg-id="btv6" tvg-name="北京体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",北京体育 HD
 https://itv.olevod.tv:5443/live/btv11hd.m3u8
+#EXTINF:-1 tvg-id="gdtv" tvg-name="广东体育" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",广东体育 HD
+https://itv.olevod.tv:5443/live/gdty.m3u8
 #EXTINF:-1 tvg-id="dongfang" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",东方卫视 HD
 https://itv.olevod.tv:5443/live/dfhd.m3u8
 #EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="tvg-logo="" tvg-country="CN" group-title="卫视",湖南卫视 HD
