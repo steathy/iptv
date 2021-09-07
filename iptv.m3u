@@ -8,11 +8,11 @@ https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Q9oWEwf.png" tvg-country="CN" group-title="CCTV-HD",CCTV-4 HD
 https://itv.olevod.tv:5443/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
-https://itv.olevod.tv:5443/live/cctv5hdfdk.m3u8
+https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
 #EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD Alt
 https://itv.olevod.tv:5443/live/cctv5hdbuptfdk.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
-https://itv.olevod.tv:5443/live/cctv5phdgd.m3u8
+https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
 #EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+ Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD Alt
 https://itv.olevod.tv:5443/live/cctv5phdbuptfdk.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tedLl4e.png" tvg-country="CN" group-title="CCTV-HD",CCTV-6 HD
@@ -79,3 +79,9 @@ https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
 #EXTINF:-1 tvg-id="WFAA.us" tvg-name="ABC TX (WFAA)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0a0FVSv.jpg" group-title="Local",ABC 8 Dallas TX (WFAA) (1080p)
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="elta1" tvg-name="ELTA体育1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/984618190448705536/_fQhFBCW_400x400.jpg" group-title="Local",ELTA体育1台
+https://itv.olevod.tv:5443/live/elta_olymp1.m3u8
+#EXTINF:-1 tvg-id="elta1a" tvg-name="ELTA体育1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/984618190448705536/_fQhFBCW_400x400.jpg" group-title="Local",ELTA体育1台
+https://itv.olevod.tv:5443/live/elta_olymp2.m3u8
+#EXTINF:-1 tvg-id="elta2" tvg-name="ELTA体育2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Local",ELTA体育2台
+https://itv.olevod.tv:5443/live/elta_olymp3.m3u8
