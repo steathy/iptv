@@ -85,3 +85,5 @@ https://itv.olevod.tv:5443/live/elta_olymp1.m3u8
 https://itv.olevod.tv:5443/live/elta_olymp2.m3u8
 #EXTINF:-1 tvg-id="elta2" tvg-name="ELTA体育2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Local",ELTA体育2台
 https://itv.olevod.tv:5443/live/elta_olymp3.m3u8
+#EXTINF:-1 tvg-id="tennis1" tvg-name="Tennis Live" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Live
+https://dai.google.com/linear/hls/pa/event/MyB998PcT6-bU3_xHEtkMw/stream/c1ea1bf5-3795-4b57-9d52-f470ec3de5d0:MRN2/variant/695ad54f1eade7d5754eeff85a2ee3f0/bandwidth/2797601.m3u8
