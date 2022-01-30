@@ -89,3 +89,7 @@ https://itv.olevod.tv:5443/live/elta_olymp3.m3u8
 https://dai.google.com/linear/hls/pa/event/MyB998PcT6-bU3_xHEtkMw/stream/c1ea1bf5-3795-4b57-9d52-f470ec3de5d0:MRN2/variant/695ad54f1eade7d5754eeff85a2ee3f0/bandwidth/2797601.m3u8
 #EXTINF:-1 tvg-id="tennis2" tvg-name="Tennis Plus" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Channcel Plus
 https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="supersport" tvg-name="Super Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Super Sport
+https://s5.fctelerium.com:999/hls/ffm33.m3u8?md5=i8vnt-rijjzR8_FOCqB54Q&expires=1643556387
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Euro Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Euro Sport
+http://d1yil65oj3zikn.cloudfront.net/hls/channel24hd34/manifest.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDE6Mjk6MDYgUE0maGFzaF92YWx1ZT1zcnZ1R1BRRUhKcmlPTklDeWtNeGt3PT0mdmFsaWRtaW51dGVzPTcw
