@@ -47,7 +47,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN1.us" tvg-name="ESPN1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN Alt
 https://hg-t3.dotice.me/plyvivo/kiwu6a9uvi5ujubuxi7o/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN Live
 https://sancro4.herokuapp.com/http://134.19.182.131:8080/pdge516e1b254bf969d_2.m3u8
 #EXTINF:-1 tvg-id="chchd" tvg-name="CHC高清电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
