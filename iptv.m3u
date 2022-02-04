@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Kw0hsmb.png" tvg-country="CN" group-title="CCTV-HD",CCTV-1 HD
-https://play.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:4443/tv/cctv1hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/FNVB7K2.png" tvg-country="CN" group-title="CCTV-HD",CCTV-2 HD
 https://itv.olevod.tv:5443/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://pic.pngbag.com/00/11/53/3662a667b5e168bf.jpg" tvg-country="CN" group-title="CCTV-HD",CCTV-3 HD
@@ -8,13 +8,13 @@ https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Q9oWEwf.png" tvg-country="CN" group-title="CCTV-HD",CCTV-4 HD
 https://itv.olevod.tv:5443/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
-https://play.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:4443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD Alt
-https://itv.olevod.tv:5443/live/cctv5hdbuptfdk.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
-https://play.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:4443/tv/cctv5phd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+ Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD Alt
-https://itv.olevod.tv:5443/live/cctv5phdbuptfdk.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tedLl4e.png" tvg-country="CN" group-title="CCTV-HD",CCTV-6 HD
 https://play.olelive.olevod.tv:6443/tv/cctv6hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="https://i.imgur.com/LecYrXS.png" tvg-country="CN" group-title="CCTV-HD",CCTV-7 HD
