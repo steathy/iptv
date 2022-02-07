@@ -27,9 +27,9 @@ https://itv.olevod.tv:5443/live/cctv9hd.m3u8
 https://itv.olevod.tv:5443/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Jhz0gqG.png" tvg-country="CN" group-title="CCTV-HD",CCTV-13 HD
 https://play.olelive.olevod.tv:6443/tv/cctv13hd_bupt/hls.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Jhz0gqG.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Ldrrjiu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD
 https://playfdcusa.olelive.olevod.tv:4443/tv/cctv16hd_bupt/hls.m3u8
-#EXTINF:-1 tvg-id="cctv16a" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Jhz0gqG.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD Alt
+#EXTINF:-1 tvg-id="cctv16a" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Ldrrjiu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD Alt
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv16hd_bupt/hls.m3u8
 #EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",江苏卫视 HD
 https://itv.olevod.tv:5443/live/jshd.m3u8
