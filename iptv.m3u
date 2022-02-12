@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Kw0hsmb.png" tvg-country="CN" group-title="CCTV-HD",CCTV-1 HD
-https://playfdcusa.olelive.olevod.tv:4443/tv/cctv1hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/FNVB7K2.png" tvg-country="CN" group-title="CCTV-HD",CCTV-2 HD
 https://itv.olevod.tv:5443/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="https://pic.pngbag.com/00/11/53/3662a667b5e168bf.jpg" tvg-country="CN" group-title="CCTV-HD",CCTV-3 HD
 https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Q9oWEwf.png" tvg-country="CN" group-title="CCTV-HD",CCTV-4 HD
-https://itv.olevod.tv:5443/live/cctv4hd.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv4hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
-https://playfdcusa.olelive.olevod.tv:4443/tv/cctv5hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:7443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD Alt
-https://playfdcsgp.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
-https://playfdcusa.olelive.olevod.tv:4443/tv/cctv5phd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:7443/tv/cctv5phd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+ Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD Alt
-https://playfdcsgp.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tedLl4e.png" tvg-country="CN" group-title="CCTV-HD",CCTV-6 HD
-https://play.olelive.olevod.tv:6443/tv/cctv6hd/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv6hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="https://i.imgur.com/LecYrXS.png" tvg-country="CN" group-title="CCTV-HD",CCTV-7 HD
 https://itv.olevod.tv:5443/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="https://i.imgur.com/mZZFYaj.png" tvg-country="CN" group-title="CCTV-HD",CCTV-8 HD
@@ -26,9 +26,9 @@ https://itv.olevod.tv:5443/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="https://i.imgur.com/us2W6Zu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-10 HD
 https://itv.olevod.tv:5443/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Jhz0gqG.png" tvg-country="CN" group-title="CCTV-HD",CCTV-13 HD
-https://play.olelive.olevod.tv:6443/tv/cctv13hd_bupt/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:6443/tv/cctv13hd_bupt/hls.m3u8
 #EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Ldrrjiu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD
-https://playfdcusa.olelive.olevod.tv:4443/tv/cctv16hd_bupt/hls.m3u8
+https://playfdcusa.olelive.olevod.tv:7443/tv/cctv16hd_bupt/hls.m3u8
 #EXTINF:-1 tvg-id="cctv16a" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Ldrrjiu.png" tvg-country="CN" group-title="CCTV-HD",CCTV-16 HD Alt
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv16hd_bupt/hls.m3u8
 #EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" group-title="卫视",江苏卫视 HD
