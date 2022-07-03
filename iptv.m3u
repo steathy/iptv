@@ -80,7 +80,7 @@ https://itv.olevod.tv:5443/live/elta_olymp2.m3u8
 #EXTINF:-1 tvg-id="elta2" tvg-name="ELTA体育2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Local",ELTA体育2台
 https://itv.olevod.tv:5443/live/elta_olymp3.m3u8
 #EXTINF:-1 tvg-id="tennis1" tvg-name="Tennis Live" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Live
-https://www.olacast.live/cdn/premium423/chunks.m3u8
+https://networkbest.ru.com/cdn/nxyjXhVSKz/chunks.m3u8
 #EXTINF:-1 tvg-id="tennis2" tvg-name="Tennis Plus" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Channcel Plus
 https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="supersport" tvg-name="Super Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Super Sport
