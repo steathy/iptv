@@ -8,7 +8,7 @@ https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Q9oWEwf.png" tvg-country="CN" group-title="CCTV-HD",CCTV-4 HD
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv4hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD
-https://live.olelive.com:6443/live/CCTV5HD_ag/hls.m3u8
+https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5 Alt" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD Alt
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD
