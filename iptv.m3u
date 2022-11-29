@@ -47,56 +47,10 @@ https://itv.olevod.tv:5443/live/gdty.m3u8
 https://itv.olevod.tv:5443/live/dfhd.m3u8
 #EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="tvg-logo="" tvg-country="CN" group-title="卫视",湖南卫视 HD
 https://itv.olevod.tv:5443/live/hunanhd.m3u8
-#EXTINF:-1 tvg-id="FengHuangWeiShiZhongWenTai.hk" tvg-name="凤凰卫视中文台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" group-title="",凤凰卫视中文台
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="News",凤凰卫视资讯台HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="凤凰卫视电影台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",凤凰卫视电影台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-id="ESPN1.us" tvg-name="ESPN1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sports",ESPN Alt
-https://hg-t3.dotice.me/plyvivo/kiwu6a9uvi5ujubuxi7o/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png" group-title="Sports",ESPN Live
-https://sancro4.herokuapp.com/http://134.19.182.131:8080/pdge516e1b254bf969d_2.m3u8
-#EXTINF:-1 tvg-id="chchd" tvg-name="CHC高清电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S6mQ6kc.png" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YH8xkTA.png" group-title="News",CBS News
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FOXNews.us" tvg-name="FOX News" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-id="KNTV.us" tvg-name="Bay Area NBC (KNTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/KNTV_11_NBC_Bay_Area.svg/1920px-KNTV_11_NBC_Bay_Area.svg.png" group-title="Local",Bay Area NBC (KNTV)
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
-#EXTINF:-1 tvg-id="WOI.us" tvg-name="ABC IA (WOI)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1jA3nKg.jpg" group-title="Local",ABC 5 Des Moines IA (WOI) (1080p)
-https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="WEWSTV.us" tvg-name="ABC OH (WEWS-TV)" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="Local",ABC 5 Cleveland OH (WEWS-TV) (1080p)
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 tvg-id="WFAA.us" tvg-name="ABC TX (WFAA)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0a0FVSv.jpg" group-title="Local",ABC 8 Dallas TX (WFAA) (1080p)
-https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="elta1" tvg-name="ELTA体育1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/984618190448705536/_fQhFBCW_400x400.jpg" group-title="Local",ELTA体育1台
-https://itv.olevod.tv:5443/live/elta_olymp1.m3u8
-#EXTINF:-1 tvg-id="elta1a" tvg-name="ELTA体育1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/984618190448705536/_fQhFBCW_400x400.jpg" group-title="Local",ELTA体育1台
-https://itv.olevod.tv:5443/live/elta_olymp2.m3u8
-#EXTINF:-1 tvg-id="elta2" tvg-name="ELTA体育2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Local",ELTA体育2台
-https://itv.olevod.tv:5443/live/elta_olymp3.m3u8
-#EXTINF:-1 tvg-id="tennis1" tvg-name="Tennis Live" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Live
-https://webui.vhls.ru.com/cdn2/wikit1/index.m3u8
-#EXTINF:-1 tvg-id="tennis2" tvg-name="Tennis Plus" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Tennis Channcel Plus
-https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-id="supersport" tvg-name="Super Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Super Sport
-https://s5.fctelerium.com:999/hls/ffm33.m3u8?md5=i8vnt-rijjzR8_FOCqB54Q&expires=1643556387
-#EXTINF:-1 tvg-id="eurosport" tvg-name="Euro Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Euro Sport
-http://d1yil65oj3zikn.cloudfront.net/hls/channel24hd34/manifest.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDE6Mjk6MDYgUE0maGFzaF92YWx1ZT1zcnZ1R1BRRUhKcmlPTklDeWtNeGt3PT0mdmFsaWRtaW51dGVzPTcw
-#EXTINF:-1 tvg-id="wuxing_1" tvg-name="五星体育_1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[1]
+#EXTINF:-1 tvg-id="wuxing_1" tvg-name="五星体育_1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="sports",五星体育[1]
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="wuxing_2" tvg-name="五星体育_2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[2]
+#EXTINF:-1 tvg-id="wuxing_2" tvg-name="五星体育_2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="sports",五星体育[2]
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="douyin_4k" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
+#EXTINF:-1 tvg-name="douyin_4k" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="sports",抖音4K世界杯SDR源
 https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
 
