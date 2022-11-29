@@ -7,19 +7,19 @@ https://itv.olevod.tv:5443/live/cctv2hd.m3u8
 https://itv.olevod.tv:5443/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Q9oWEwf.png" tvg-country="CN" group-title="CCTV-HD",CCTV-4 HD
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv4hd/hls.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5_1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_1 
+#EXTINF:-1 tvg-id="cctv5_1" tvg-name="CCTV5_1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_1 
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="cctv5a" tvg-name="CCTV5_2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_2
+#EXTINF:-1 tvg-id="cctv5_2" tvg-name="CCTV5_2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_2
 https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
-#EXTINF:-1 tvg-id="cctv5b" tvg-name="CCTV5_3" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_3
+#EXTINF:-1 tvg-id="cctv5_3" tvg-name="CCTV5_3" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_3
 https://live.olelive.com:6443/live/cctv5hd/hls.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+_1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_1
+#EXTINF:-1 tvg-id="cctv5plus_1" tvg-name="CCTV5+_1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_1
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+_2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_2
+#EXTINF:-1 tvg-id="cctv5plus_2" tvg-name="CCTV5+_2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_2
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="cctv5plusa" tvg-name="CCTV5+_3" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_3
+#EXTINF:-1 tvg-id="cctv5plus_3" tvg-name="CCTV5+_3" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_3
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV5+_4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_4
+#EXTINF:-1 tvg-id="cctv5plus_4" tvg-name="CCTV5+_4" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_4
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tedLl4e.png" tvg-country="CN" group-title="CCTV-HD",CCTV-6 HD
 https://playfdcusa.olelive.olevod.tv:7443/tv/cctv6hd/hls.m3u8
@@ -93,10 +93,10 @@ https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b
 https://s5.fctelerium.com:999/hls/ffm33.m3u8?md5=i8vnt-rijjzR8_FOCqB54Q&expires=1643556387
 #EXTINF:-1 tvg-id="eurosport" tvg-name="Euro Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Euro Sport
 http://d1yil65oj3zikn.cloudfront.net/hls/channel24hd34/manifest.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDE6Mjk6MDYgUE0maGFzaF92YWx1ZT1zcnZ1R1BRRUhKcmlPTklDeWtNeGt3PT0mdmFsaWRtaW51dGVzPTcw
-#EXTINF:-1 tvg-id="migu1" tvg-name="五星体育_1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[1]
+#EXTINF:-1 tvg-id="wuxing_1" tvg-name="五星体育_1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[1]
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="migu1" tvg-name="五星体育_2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[2]
+#EXTINF:-1 tvg-id="wuxing_2" tvg-name="五星体育_2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[2]
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
+#EXTINF:-1 tvg-name="douyin_4k" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
 https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
 
