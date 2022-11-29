@@ -93,5 +93,10 @@ https://playoutengine-v2.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b
 https://s5.fctelerium.com:999/hls/ffm33.m3u8?md5=i8vnt-rijjzR8_FOCqB54Q&expires=1643556387
 #EXTINF:-1 tvg-id="eurosport" tvg-name="Euro Sport" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",Euro Sport
 http://d1yil65oj3zikn.cloudfront.net/hls/channel24hd34/manifest.mpd?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDE6Mjk6MDYgUE0maGFzaF92YWx1ZT1zcnZ1R1BRRUhKcmlPTklDeWtNeGt3PT0mdmFsaWRtaW51dGVzPTcw
-#EXTINF:-1 tvg-id="migu1" tvg-name="咪咕体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",咪咕体育
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+#EXTINF:-1 tvg-id="migu1" tvg-name="五星体育 1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[1]
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="migu1" tvg-name="五星体育 2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Local",五星体育[2]
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
+https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
+
