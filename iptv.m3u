@@ -14,7 +14,7 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV-HD",CCTV5-高清(2)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-id="cctv5_2" tvg-name="CCTV5_2" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_2
-https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8?token=DlkcvUGzsuZ1nv3jRrjSprvNkLgwc-_aKtX9XBBG_kwJ3OQ5oYoZ01w2yWM0wQNJgf4vmH6fjWxWfkQ0zBa_LJKcA13O7u3MaxAZsvipD-JMVCE7EvlJyX1crDfKLh71Fb3qWOj-iV-lGiiPDGWV0A==
 #EXTINF:-1 tvg-id="cctv5_3" tvg-name="CCTV5_3" tvg-language="Chinese" tvg-logo="https://i.imgur.com/euK8JFi.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5 HD_3
 https://live.olelive.com:6443/live/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="cctv5plus_1" tvg-name="CCTV5+_1" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1uiUT2J.png" tvg-country="CN" group-title="CCTV-HD",CCTV-5+ HD_1
