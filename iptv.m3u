@@ -55,6 +55,76 @@ https://itv.olevod.tv:5443/live/hunanhd.m3u8
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="wuxing_2" tvg-name="五星体育_2" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="sports",五星体育[2]
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="sports",咪咕体育-4K-HLG源
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用1" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="sports",咪咕体育-4K-HLG源-1
+http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="sports",咪咕体育-4K-HLG源-2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="sports",V Sports UHD
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg" group-title="sports",V Sports UHD备
+http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="sports",Now Sports UHD HK
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/7AC86388-6842-40B1-A22B-E835B4800BC9.jpeg" group-title="sports",Now Sports UHD HK备
+http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/1F89764F-8057-40CD-8C72-F36F8A337101.png" group-title="sports",SuperSport 4k World CUP
+http://cdn.spmr.tv:8080/pr8k4n/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png" group-title="sports",BeIN Sports 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/482E2AAC-C5ED-4F1A-A212-D68171CDEE14.jpeg" group-title="sports",Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png" group-title="sports",Sport5 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3CE30C63-5731-400F-B187-3B0AE5BD4100.jpeg" group-title="4K频道",Матч 4k
+http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="4K频道",TRT 4k
+http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="4K频道",TRT 4k-1
+http://toolsworldiptv.org:8080/live/geriHiOeu4sekxxxxx211/geriHiOeu4/365.ts
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3EA3DD80-5B0C-42F7-97FE-6E81044B262C.jpeg" group-title="4K频道",TRT 4k-2
+http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png" group-title="4K频道",DIGI 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/Digi_4K_29.png" group-title="4K频道",DIGI 4k备
+http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/56A2DFC4-1E3F-4950-A5B8-A027EFA55A8F.png" group-title="4K频道",Rai 4k
+http://saveukraine.only4.tv/8185/video.m3u8?token=y3DBG7q3sk
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/56A2DFC4-1E3F-4950-A5B8-A027EFA55A8F.png" group-title="4K频道",Rai 4k备
+http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/F3B43183-0B32-4AD3-8AD6-A5CF7197B78A.png" group-title="4K频道",C4k360
+http://cdnx1.plusx.tv:8880/C4K360/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/334C2EE2-E85E-44CA-A0F1-7168162331CD.png" group-title="4K频道",TVP 4k
+http://barebudget.h1ott.com:80/play/live.php?mac=00:1a:79:27:1f:ef&stream=1057230&extension=ts&play_token=FFHcEjJdsM
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/334C2EE2-E85E-44CA-A0F1-7168162331CD.png" group-title="4K频道",TVP 4k-1
+http://cdnx1.plusx.tv:8880/tvp4kw/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/334C2EE2-E85E-44CA-A0F1-7168162331CD.png" group-title="4K频道",TVP 4k-2
+http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=HRUNWEM0Q2
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8162C678-8100-4A6C-8DE6-F7544FE95A93.jpeg" group-title="4K频道",VTC13 4K
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/D4DF7DB2-18A8-4A2B-B8ED-BAF244CC33FC.png" group-title="4K频道",Insight UHD
+http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EC4AEC0A-D365-432E-85BC-84879C601B12.png" group-title="4K频道",TRAVELXP TV 4K
+http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/00290534-F507-42B6-AB8E-8DEE7149079B.jpeg" group-title="4K频道",NASA 4k 60P 
+http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/B5A1993A-78DD-4BBD-BD13-73D5EC85DED9.jpeg" group-title="4K频道",MYZEN TV 4K
+http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png" group-title="4K频道",ULTRA NATURE TV 4K
+http://185.236.229.31:9981/play/a01d
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K频道",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C0890450-5801-4E07-ACEB-D392A350C800.jpeg" group-title="4K频道",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="sports",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="sports",Astro Super Sport 4K-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="sports",Astro Super Sport 4K-2
+http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
 #EXTINF:-1 tvg-name="douyin_4k" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="sports",抖音4K世界杯SDR源
 https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/beijingjishi.png" group-title="8K频道",BTV纪实科教-8KSDR源
